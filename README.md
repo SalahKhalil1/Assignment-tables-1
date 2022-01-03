@@ -11,8 +11,6 @@ and print them in either*
 2. Selection Sort
 3. Bubble Sort
 
-***
-
 ## Tools
 * Assembly Programming Language
 * Visual Studio Code (Editor)
@@ -22,7 +20,7 @@ and print them in either*
 
 ## Links
 
-
+[![Visual Studio Code ](https://code.visualstudio.com/Download)
 
 
 
