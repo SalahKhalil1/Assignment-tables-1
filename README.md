@@ -4,6 +4,7 @@
 and print them in either*
 * Assending Sort Technique
 * Dessending Sort Technique
+***
 *Using one of these three Sorting Algorithms*
 * Insertion Sort
 * Selection Sort
