@@ -20,7 +20,7 @@ and print them in either*
 
 ## Links
 
-[![Visual Studio Code ](https://code.visualstudio.com/Download)
+[Visual Studio Code ](https://code.visualstudio.com/Download)
 
 
 
