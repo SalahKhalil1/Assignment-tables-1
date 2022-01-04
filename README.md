@@ -139,7 +139,7 @@ and print them in either*
 ## Irvine Libraray
 * *We have used this library to print messages to the user, and also the ineger values that he enters then checking if this entered values are valid or not.*
 
-* ***Used Procedures***
+* ***<ins>Used Procedures:</ins>***
     1. **WriteString :**  Writes a null-terminated string to standard output that EDX register points to it and move the cursor to the beginning of the next screen line. It has no return value.
     2. **Crlf :** Writes a carriage return/linefeed sequence (0Dh,0Ah) to standard output.
     3. **ReadInt :** ReadInt - Reads a 32-bit signed decimal integer from standard input, terminated by the Enter key.
