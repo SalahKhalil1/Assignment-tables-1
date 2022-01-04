@@ -65,8 +65,6 @@ and print them in either*
 		array[j] = currentValue;
 
 ```
-![insert](https://user-images.githubusercontent.com/47761503/148007140-d40510be-5dfd-46b7-9b47-388dc6686220.PNG)
-
 
 ## Sorting Algorithms
 ### 2. Selection Sort 
@@ -83,7 +81,21 @@ and print them in either*
      O(n<sup>2</sup>)
      
  * **C++ Code :**
- 
+ ```
+// C++ Selection Sort Code
 
-![select](https://user-images.githubusercontent.com/47761503/148006069-8d54212d-5bf2-4e5b-b219-43cda133fff7.PNG)
+	int arrsize = sizeof(array) / sizeof(array[0]);
+	for (int i = arrsize - 1; i > 0; i--)
+	{
+		int MaxIndex = i;
+		for (int j = i - 1; j >= 0; j--)
+		{
+			if (array[i] > array[MaxIndex])
+			{
+				MaxIndex = i;
+			}
+		}
+		swap(MaxIndex, i);
+	}
+    ```
 
