@@ -49,7 +49,22 @@ and print them in either*
      
  * **C++ Code :**
  
+```
+// C++ Insertion Sort Code
 
+	int arrsize = sizeof(array) / sizeof(array[0]);
+
+	for (int i = 1; i < arrsize; i++)
+	{
+		int currentValue = array[i];
+		int j;
+		for ( j = i; j > 0 && currentValue <= array[j - 1]; j--)
+		{
+			array[j] = array[j - 1];
+		}
+		array[j] = currentValue;
+
+```
 ![insert](https://user-images.githubusercontent.com/47761503/148007140-d40510be-5dfd-46b7-9b47-388dc6686220.PNG)
 
 
