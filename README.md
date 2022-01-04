@@ -37,3 +37,7 @@ and print them in either*
 *  **_Time Complexity:_**
     
      O(n<sup>2</sup>)
+     
+* C++ Code 
+![select](https://user-images.githubusercontent.com/47761503/148006069-8d54212d-5bf2-4e5b-b219-43cda133fff7.PNG)
+
