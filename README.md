@@ -101,7 +101,7 @@ and print them in either*
 ```
 ***
 
-### 2. Bubble Sort 
+### 2. <mark>Bubble Sort</mark>
 
 *   * This is a Sorting Technique that compares two adjacent elements and swaps them until they are not in the intended order until the whole array is sorted..*
 
