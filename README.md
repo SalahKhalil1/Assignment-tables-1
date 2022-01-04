@@ -38,7 +38,7 @@ and print them in either*
     
      O(n<sup>2</sup>)
      
- * **_C++ Code :_**
+ * **C++ Code :**
  
 
 ![select](https://user-images.githubusercontent.com/47761503/148006069-8d54212d-5bf2-4e5b-b219-43cda133fff7.PNG)
