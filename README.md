@@ -139,6 +139,11 @@ and print them in either*
 ## Irvine Libraray
 * *We have used this library to print messages to the user, and also the ineger values that he enters then checking if this entered values are valid or not.*
 
+* *Used Procedures*
+    1. WriteString: Writes a null-terminated string to standard output that EDX register points to it and move the cursor to the beginning of the next screen line. It has no return value.
+    2.
+
+
 
 ## Projeect Contributors
 * [Rawan Mohammed Adelhady](https://github.com/rawanmohammed99/)
