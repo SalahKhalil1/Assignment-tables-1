@@ -32,4 +32,4 @@ and print them in either*
 
 * **_For Example :_**
 
-[![Selection Sort](https://img.youtube.com/vi/qIkmc0TuBUs/0.jpg)]
+![selectionsortnew](https://user-images.githubusercontent.com/47761503/147995391-86e05f72-c24f-4dfd-a00a-4b119f74577c.png)
