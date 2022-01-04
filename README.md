@@ -32,7 +32,14 @@ and print them in either*
 
 * **_For Example :_**
 
-![insert](https://user-images.githubusercontent.com/47761503/148007140-d40510be-5dfd-46b7-9b47-388dc6686220.PNG)
+![i1](https://user-images.githubusercontent.com/47761503/148007906-2e9e987e-635e-4888-8c17-b017cb5035e2.PNG)
+![i2](https://user-images.githubusercontent.com/47761503/148007911-2bad673b-f755-4520-bffa-59f4e615d36f.PNG)
+![i3](https://user-images.githubusercontent.com/47761503/148007913-a9ec273d-658e-4fb1-be69-5f74e7b5a2fb.PNG)
+![i4](https://user-images.githubusercontent.com/47761503/148007914-641eabde-3408-42f4-8c90-3d5783cf0e8b.PNG)
+![i5](https://user-images.githubusercontent.com/47761503/148007919-5a2d96c5-1d4e-4a8c-9470-f2172e88efdb.PNG)
+![i6](https://user-images.githubusercontent.com/47761503/148007920-02e106eb-a4ef-4592-918e-a9fdac42a86a.PNG)
+![i7](https://user-images.githubusercontent.com/47761503/148007922-084cb7a8-855a-416d-9272-7a95b1728917.PNG)
+![i8](https://user-images.githubusercontent.com/47761503/148007905-de837187-0d55-40ca-b745-930ac06fe01b.PNG)
 
 *  **_Time Complexity:_**
     
