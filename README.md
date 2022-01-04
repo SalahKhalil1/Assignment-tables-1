@@ -154,8 +154,11 @@ and print them in either*
                      If OF=1, EAX = 0 (invalid input)
                      
     4. **Writeint:** Writes a signed 32-bit decimal number that is stored in EAX register to standard output in decimal format with a leading sign and no leading zeros.
-
-
+* ***<ins>Library issue:</ins>***
+                - If the user have enterd nothing the input will be accepted 
+                    and considers the input to be 0 and assign it to the EAX
+                    register as an input.
+                
 
 ## Projeect Contributors
 * [Rawan Mohammed Adelhady](https://github.com/rawanmohammed99/)
