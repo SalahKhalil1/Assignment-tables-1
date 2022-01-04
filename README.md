@@ -144,7 +144,8 @@ and print them in either*
 * ***<ins>Library issue:</ins>***
 <br>
          If the user have enterd nothing the input will be accepted and considers the input to be 0 and assign it to the EAX register as an input.
-               
+
+***
 ## Tools
 * Assembly Programming Language
 * Visual Studio Code (Editor)
@@ -152,12 +153,14 @@ and print them in either*
 * MASM32 (Compiler)
 * CMD (Excuting Code)
 
+***
 ## Links
 
 * [ Visual Studio Code ](https://code.visualstudio.com/Download)
 * [ Irvine Library ](http://csc.csudh.edu/mmccullough/asm/help/index.html?page=source%2Fmacros32%2Fmdumpmem.htm)
 * [ MASM32 assembler ](https://www.masm32.com)
 
+***
 ## Project Contributors
 * [Rawan Mohammed Adelhady](https://github.com/rawanmohammed99/)
 * [Salah Khalil Salah](https://github.com/SalahKhalil1/)
