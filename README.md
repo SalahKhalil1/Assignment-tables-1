@@ -149,8 +149,8 @@ and print them in either*
          ReadInt will display an error message, set the Overflow flag, and reset EAX to zero if the value entered cannot be represented as a 32-bit signed integer.
 
          - Return args:
-                If OF=0, EAX = valid binary value, and SF=sign.
-                If OF=1, EAX = 0 (invalid input)
+                - If OF=0, EAX = valid binary value, and SF=sign.
+               -  If OF=1, EAX = 0 (invalid input)
 
 
 
