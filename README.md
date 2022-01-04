@@ -25,7 +25,27 @@ and print them in either*
 * [ MASM32 assembler ](https://www.masm32.com)
 
 ## Sorting Algorithms
-### 1. Selection Sort 
+### 1. Insertion Sort 
+
+*   *In This Sorting Technique of the Array Elements assuming ascending order technique we Select the first unsorted element then swapping other elements to the right to create the correct position and shift the unsorted element then we advance to select the next one and repeat this again until the whole array is sorted.*
+
+
+* **_For Example :_**
+
+![insert](https://user-images.githubusercontent.com/47761503/148007140-d40510be-5dfd-46b7-9b47-388dc6686220.PNG)
+
+*  **_Time Complexity:_**
+    
+     O(n<sup>2</sup>)
+     
+ * **C++ Code :**
+ 
+
+![insert](https://user-images.githubusercontent.com/47761503/148007140-d40510be-5dfd-46b7-9b47-388dc6686220.PNG)
+
+
+## Sorting Algorithms
+### 2. Selection Sort 
 
 *   *In This Sorting Technique of the Array Elements assuming ascending order technique we are iterating over the array elements that are unsorted to find the maximum one and swapping it at the end with last   un sorted one and repeat this again until the whole array is sorted.*
 
