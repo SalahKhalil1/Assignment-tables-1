@@ -24,7 +24,8 @@ and print them in either*
 * [ Irvine Library ](http://csc.csudh.edu/mmccullough/asm/help/index.html?page=source%2Fmacros32%2Fmdumpmem.htm)
 * [ MASM32 assembler ](https://www.masm32.com)
 
-## 1. Selection Sort 
+## Sorting Algorithms
+### 1. Selection Sort 
 
 *   *In This Sorting Technique of the Array Elements assuming ascending order technique we are iterating over the array elements that are unsorted to find the maximum one and swapping it at the end with last   un sorted one and repeat this again until the whole array is sorted.*
 
