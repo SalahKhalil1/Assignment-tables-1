@@ -36,5 +36,5 @@ and print them in either*
 
 *  **_Time Complexity:_**
     
-     O(n^2^)
+     O( n^2^ )
 
