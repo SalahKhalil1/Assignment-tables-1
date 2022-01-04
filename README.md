@@ -11,19 +11,6 @@ and print them in either*
 2. Selection Sort
 3. Bubble Sort
 
-## Tools
-* Assembly Programming Language
-* Visual Studio Code (Editor)
-* Irvine Library
-* MASM32 (Compiler)
-* CMD (Excuting Code)
-
-## Links
-
-* [ Visual Studio Code ](https://code.visualstudio.com/Download)
-* [ Irvine Library ](http://csc.csudh.edu/mmccullough/asm/help/index.html?page=source%2Fmacros32%2Fmdumpmem.htm)
-* [ MASM32 assembler ](https://www.masm32.com)
-
 ## Sorting Algorithms
 ### 1. Insertion Sort 
 
@@ -103,7 +90,7 @@ and print them in either*
 
 ### 3. Bubble Sort
 
-*   * This is a Sorting Technique that compares two adjacent elements and swaps them until they are not in the intended order until the whole array is sorted..*
+*   *This is a Sorting Technique that compares two adjacent elements and swaps them until they are not in the intended order until the whole array is sorted.*
 
 
 * **_For Example :_**
@@ -136,7 +123,7 @@ and print them in either*
 
 ```
 ***
-## Irvine Libraray
+## Irvine Library
 * *We have used this library to print messages to the user, and also the ineger values that he enters then checking if this entered values are valid or not.*
 
 * ***<ins>Used Procedures:</ins>***
@@ -157,9 +144,21 @@ and print them in either*
 * ***<ins>Library issue:</ins>***
 <br>
          If the user have enterd nothing the input will be accepted and considers the input to be 0 and assign it to the EAX register as an input.
-                
+               
+## Tools
+* Assembly Programming Language
+* Visual Studio Code (Editor)
+* Irvine Library
+* MASM32 (Compiler)
+* CMD (Excuting Code)
 
-## Projeect Contributors
+## Links
+
+* [ Visual Studio Code ](https://code.visualstudio.com/Download)
+* [ Irvine Library ](http://csc.csudh.edu/mmccullough/asm/help/index.html?page=source%2Fmacros32%2Fmdumpmem.htm)
+* [ MASM32 assembler ](https://www.masm32.com)
+
+## Project Contributors
 * [Rawan Mohammed Adelhady](https://github.com/rawanmohammed99/)
 * [Salah Khalil Salah](https://github.com/SalahKhalil1/)
 * [Bassim Attia Abdelatty](https://github.com/Baccem/)
