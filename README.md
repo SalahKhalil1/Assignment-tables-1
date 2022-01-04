@@ -39,7 +39,7 @@ and print them in either*
 ![i5](https://user-images.githubusercontent.com/47761503/148007919-5a2d96c5-1d4e-4a8c-9470-f2172e88efdb.PNG)
 ![i6](https://user-images.githubusercontent.com/47761503/148007920-02e106eb-a4ef-4592-918e-a9fdac42a86a.PNG)
 ![i7](https://user-images.githubusercontent.com/47761503/148007922-084cb7a8-855a-416d-9272-7a95b1728917.PNG)
-    ==*This Process is performed n-1 times where n is the Array Size until it is finally sorted*==
+    == *This Process is performed n-1 times where n is the Array Size until it is finally sorted* ==
     
 ![i8](https://user-images.githubusercontent.com/47761503/148007905-de837187-0d55-40ca-b745-930ac06fe01b.PNG)
 
