@@ -96,6 +96,6 @@ and print them in either*
 		}
 		swap(MaxIndex, i);
 	}
-    
-    ```
 
+```
+***
