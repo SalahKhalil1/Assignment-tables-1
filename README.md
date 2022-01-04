@@ -69,7 +69,7 @@ and print them in either*
 ***
 ### 2. Selection Sort 
 
-*   *In This Sorting Technique of the Array Elements assuming ascending order technique we are iterating over the array elements that are unsorted to find the maximum one and swapping it at the end with last   un sorted one and repeat this again until the whole array is sorted.*
+*   *In This Sorting Technique of the Array Elements assuming ascending order technique we are iterating over the array elements that are unsorted to find the maximum one and swapping it at the end with last unsorted one and repeat this again until the whole array is sorted.*
 
 
 * **_For Example :_**
@@ -97,6 +97,42 @@ and print them in either*
 		}
 		swap(MaxIndex, i);
 	}
+
+```
+***
+
+### 2. Bubble Sort 
+
+*   * This is a Sorting Technique that compares two adjacent elements and swaps them until they are not in the intended order until the whole array is sorted..*
+
+
+* **_For Example :_**
+
+![bubble sort](https://user-images.githubusercontent.com/47761503/148011706-3e334a1e-9e12-4ec8-ab23-a7effd0445c9.png)
+
+
+*  **_Time Complexity:_**
+    
+     O(n<sup>2</sup>)
+     
+ * **C++ Code :**
+ ```
+	// C++ Bubble Sort Code
+
+		int arrsize = sizeof(array) / sizeof(array[0]);
+
+		for (int i = 0; i < arrsize - 1; i++)
+		{
+			for (int j = 0; j < arrsize - i - 1; j++)
+			{
+				if (array[j] > array[j + 1])
+				{
+					int temperary = array[j];
+					array[j] = array[j + 1];
+					array[j + 1] = temperary;
+				}
+			}
+		}
 
 ```
 ***
