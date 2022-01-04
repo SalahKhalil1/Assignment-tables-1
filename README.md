@@ -2,8 +2,8 @@
 ## About The Project
 *This is a Sorting program that Sorts the integer Values of an array that entered by the user 
 and print them in either*
-1. Assending Sort Way
-2. Dessending Sort Way
+1. Assending Order Sort
+2. Dessending Order Sort
 3. In Both of them
 
 *Using one of these three Sorting Algorithms:*
@@ -24,7 +24,10 @@ and print them in either*
 * [ Irvine Library ](http://csc.csudh.edu/mmccullough/asm/help/index.html?page=source%2Fmacros32%2Fmdumpmem.htm)
 * [ MASM32 assembler ](https://www.masm32.com)
 
-## 
+## Selection Sort Algorithm
+
+*   *In This Sorting Technique Array Elements assuming ascending order technique we are iterating over the array elements that are unsorted to find the maximum one and swapping it at the end with last   un sorted one and repeat this again until the whole array is sorted.*
+
 
 
 
