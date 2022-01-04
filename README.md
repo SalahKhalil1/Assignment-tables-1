@@ -156,7 +156,7 @@ and print them in either*
     4. **Writeint:** Writes a signed 32-bit decimal number that is stored in EAX register to standard output in decimal format with a leading sign and no leading zeros.
 * ***<ins>Library issue:</ins>***
 <br>
-                                        - If the user have enterd nothing the input will be accepted and considers the input to be 0 and assign it to the EAX register as an input.
+                                        * If the user have enterd nothing the input will be accepted and considers the input to be 0 and assign it to the EAX register as an input.
                 
 
 ## Projeect Contributors
