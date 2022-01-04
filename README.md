@@ -144,13 +144,13 @@ and print them in either*
     2. **Crlf :** Writes a carriage return/linefeed sequence (0Dh,0Ah) to standard output.
     3. **ReadInt :** ReadInt - Reads a 32-bit signed decimal integer from standard input, terminated by the Enter key.
 
-    Leading spaces are ignored, and an optional leading + or - sign is permitted.
+        Leading spaces are ignored, and an optional leading + or - sign is permitted.
 
-     ReadInt will display an error message, set the Overflow flag, and reset EAX to zero if the value entered cannot be represented as a 32-bit signed integer.
-     
-     - Return args:
-            If OF=0, EAX = valid binary value, and SF=sign.
-            If OF=1, EAX = 0 (invalid input)
+         ReadInt will display an error message, set the Overflow flag, and reset EAX to zero if the value entered cannot be represented as a 32-bit signed integer.
+
+         - Return args:
+                If OF=0, EAX = valid binary value, and SF=sign.
+                If OF=1, EAX = 0 (invalid input)
 
 
 
