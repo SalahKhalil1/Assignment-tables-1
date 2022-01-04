@@ -101,7 +101,7 @@ and print them in either*
 ```
 ***
 
-### 2. <mark>Bubble Sort</mark>
+### 3. Bubble Sort
 
 *   * This is a Sorting Technique that compares two adjacent elements and swaps them until they are not in the intended order until the whole array is sorted..*
 
@@ -136,3 +136,6 @@ and print them in either*
 
 ```
 ***
+
+## Team Members
+* [Salah Khalil](https://github.com/SalahKhalil1/)
