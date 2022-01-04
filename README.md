@@ -150,8 +150,10 @@ and print them in either*
 
          - Return args:
          
-                    * If OF=0, EAX = valid binary value, and SF=sign.
-                    * If OF=1, EAX = 0 (invalid input)
+                     If OF=0, EAX = valid binary value, and SF=sign.
+                     If OF=1, EAX = 0 (invalid input)
+                     
+    4. **Writeint:** Writes a signed 32-bit decimal number that is stored in EAX register to standard output in decimal format with a leading sign and no leading zeros.
 
 
 
