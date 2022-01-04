@@ -26,7 +26,7 @@ and print them in either*
 
 ## Selection Sort Algorithm
 
-*   *In This Sorting Technique Array Elements assuming ascending order technique we are iterating over the array elements that are unsorted to find the maximum one and swapping it at the end with last   un sorted one and repeat this again until the whole array is sorted.*
+*   *In This Sorting Technique of the Array Elements assuming ascending order technique we are iterating over the array elements that are unsorted to find the maximum one and swapping it at the end with last   un sorted one and repeat this again until the whole array is sorted.*
 
 
 
