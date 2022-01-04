@@ -34,4 +34,7 @@ and print them in either*
 
 ![selectionsortnew](https://user-images.githubusercontent.com/47761503/147995391-86e05f72-c24f-4dfd-a00a-4b119f74577c.png)
 
-* ## Time Complexity:
+*  **_Time Complexity:_**
+    
+     O(n^2^)
+
