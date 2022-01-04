@@ -143,13 +143,14 @@ and print them in either*
     1. **WriteString :**  Writes a null-terminated string to standard output that EDX register points to it and move the cursor to the beginning of the next screen line. It has no return value.
     2. **Crlf :** Writes a carriage return/linefeed sequence (0Dh,0Ah) to standard output.
     3. **ReadInt :** ReadInt - Reads a 32-bit signed decimal integer from standard input, terminated by the Enter key.
-    <br>
+
     Leading spaces are ignored, and an optional leading + or - sign is permitted.
-    <br>
+
      ReadInt will display an error message, set the Overflow flag, and reset EAX to zero if the value entered cannot be represented as a 32-bit signed integer.
-     <br>
-     - Return args: If OF=0, EAX = valid binary value, and SF=sign.
-             If OF=1, EAX = 0 (invalid input)
+     
+     - Return args:
+            If OF=0, EAX = valid binary value, and SF=sign.
+            If OF=1, EAX = 0 (invalid input)
 
 
 
