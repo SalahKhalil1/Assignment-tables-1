@@ -2,8 +2,8 @@
 ## About The Project
 *This is a Sorting program that Sorts the integer Values of an array that entered by the user 
 and print them in either*
-1. Assending Order Sort
-2. Dessending Order Sort
+1. Ascending Order Sort
+2. Descending Order Sort
 3. In Both of them
 
 *Using one of these three Sorting Algorithms:*
@@ -149,11 +149,21 @@ and print them in either*
 ***
 
 ## Testing Sorting Program
-* *Testing Sort*
+* ***Testing Sort***
 
 ![o1](https://user-images.githubusercontent.com/47761503/148268481-39473cd7-f20e-4ce4-b25c-d9352417b174.PNG)
 
 ![o2](https://user-images.githubusercontent.com/47761503/148268525-d818368d-865f-410b-b7ac-247867a48c38.PNG)
+
+![o3](https://user-images.githubusercontent.com/47761503/148270028-cc44f6b3-2ea0-4c4e-b41e-89088e28792f.PNG)
+
+* ***Checking Input Validation***
+
+![o4](https://user-images.githubusercontent.com/47761503/148270335-d8da02c1-8c5d-4cb7-979e-fece182c515a.PNG)
+
+![o5](https://user-images.githubusercontent.com/47761503/148270378-98ce29f8-85a7-4b2a-ae35-a02145218b4b.PNG)
+
+![o6](https://user-images.githubusercontent.com/47761503/148270423-69523d4d-0c73-420b-9da4-7d7dbd5c4647.PNG)
 
 
 ***
