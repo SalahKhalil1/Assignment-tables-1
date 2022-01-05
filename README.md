@@ -1,3 +1,9 @@
+<!--Bassim Attia
+Rawan Mohammed
+Ziad Gamal
+Salah Khalil
+Moaaz Anwar-->
+
 # Sorting Array Elements
 ## About The Project
 *This is a Sorting program that Sorts the integer Values of an array that entered by the user 
@@ -54,6 +60,7 @@ and print them in either*
 
 ```
 ***
+
 ### 2. Selection Sort 
 
 *   *In This Sorting Technique of the Array Elements assuming ascending order technique we are iterating over the array elements that are unsorted to find the maximum one and swapping it at the end with last unsorted one and repeat this again until the whole array is sorted.*
