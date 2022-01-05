@@ -144,6 +144,12 @@ and print them in either*
 * ***<ins>Library issue:</ins>***
 <br>
          If the user have enterd nothing the input will be accepted and considers the input to be 0 and assign it to the EAX register as an input.
+***
+## Testing Sorting Program
+* *Testing Sort*
+![o1](https://user-images.githubusercontent.com/47761503/148268481-39473cd7-f20e-4ce4-b25c-d9352417b174.PNG)
+![o2](https://user-images.githubusercontent.com/47761503/148268525-d818368d-865f-410b-b7ac-247867a48c38.PNG)
+
 
 ***
 ## Tools
