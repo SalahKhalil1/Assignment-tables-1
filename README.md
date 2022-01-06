@@ -13,6 +13,7 @@ Moaaz Anwar-->
 * [Tools](#Tools)
 * [Links](#Links)
 * [Project Contributors](#Project-Contributors)
+***
 ## About The Project
 *This is a Sorting program that Sorts the integer Values of an array that entered by the user 
 and print them in either*
