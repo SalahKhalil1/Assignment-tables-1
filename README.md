@@ -8,10 +8,11 @@ Moaaz Anwar-->
 # Table of Contents  
 * [About The Project](#About-The-Project)  
 * [Irvine Library](#Irvine-Library)
-* [1. Insertion Sort](#1.-Insertion-Sort)
+* [Testing Sorting Program](#Testing-Sorting-Program)
 * [Sorting Algorithms](#Sorting-Algorithms)
-* [About The Project](#About-The-Project)
-* [About The Project](#About-The-Project)
+* [Tools](#Tools)
+* [Links](#Links)
+* [Project Contributors](#Project-Contributors)
 ## About The Project
 *This is a Sorting program that Sorts the integer Values of an array that entered by the user 
 and print them in either*
