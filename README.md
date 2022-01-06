@@ -6,11 +6,12 @@ Moaaz Anwar-->
 
 # Sorting Array Elements
 # Table of Contents  
-[About The Project](#About-The-Project)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
+* [About The Project](#About-The-Project)  
+* [Irvine Library](#Irvine-Library)
+* [1. Insertion Sort](1.-Insertion-Sort)
+* [Sorting Algorithms](#Sorting-Algorithms)
+* [About The Project](#About-The-Project)
+* [About The Project](#About-The-Project)
 ## About The Project
 *This is a Sorting program that Sorts the integer Values of an array that entered by the user 
 and print them in either*
