@@ -16,6 +16,51 @@ and print them in either*
 1. Insertion Sort
 2. Selection Sort
 3. Bubble Sort
+***
+## Irvine Library
+* *We have used this library to print messages to the user, and also the ineger values that he enters then checking if this entered values are valid or not.*
+
+* ***<ins>Used Procedures:</ins>***
+    1. **WriteString :**  Writes a null-terminated string to standard output that EDX register points to it and move the cursor to the beginning of the next screen line. It has no return value.
+    2. **Crlf :** Writes a carriage return/linefeed sequence (0Dh,0Ah) to standard output.
+    3. **ReadInt :** ReadInt - Reads a 32-bit signed decimal integer from standard input, terminated by the Enter key.
+
+        Leading spaces are ignored, and an optional leading + or - sign is permitted.
+
+         ReadInt will display an error message, set the Overflow flag, and reset EAX to zero if the value entered cannot be represented as a 32-bit signed integer.
+
+         - Return args:
+         
+                     If OF=0, EAX = valid binary value, and SF=sign.
+                     If OF=1, EAX = 0 (invalid input)
+                     
+    4. **Writeint:** Writes a signed 32-bit decimal number that is stored in EAX register to standard output in decimal format with a leading sign and no leading zeros.
+* ***<ins>Library issue:</ins>***
+<br>
+         If the user have enterd nothing the input will be accepted and considers the input to be 0 and assign it to the EAX register as an input.
+         
+         
+***
+
+## Testing Sorting Program
+* ***Testing Sort***
+
+![o1](https://user-images.githubusercontent.com/47761503/148268481-39473cd7-f20e-4ce4-b25c-d9352417b174.PNG)
+
+![o2](https://user-images.githubusercontent.com/47761503/148268525-d818368d-865f-410b-b7ac-247867a48c38.PNG)
+
+![o3](https://user-images.githubusercontent.com/47761503/148270028-cc44f6b3-2ea0-4c4e-b41e-89088e28792f.PNG)
+
+* ***Checking Input Validation***
+
+![o4](https://user-images.githubusercontent.com/47761503/148270335-d8da02c1-8c5d-4cb7-979e-fece182c515a.PNG)
+
+![o5](https://user-images.githubusercontent.com/47761503/148270378-98ce29f8-85a7-4b2a-ae35-a02145218b4b.PNG)
+
+![o6](https://user-images.githubusercontent.com/47761503/148270423-69523d4d-0c73-420b-9da4-7d7dbd5c4647.PNG)
+
+
+***
 
 ## Sorting Algorithms
 ### 1. Insertion Sort 
@@ -84,9 +129,9 @@ and print them in either*
 		int MaxIndex = i;
 		for (int j = i - 1; j >= 0; j--)
 		{
-			if (array[i] > array[MaxIndex])
+			if (array[j] > array[MaxIndex])
 			{
-				MaxIndex = i;
+				MaxIndex = j;
 			}
 		}
 		swap(MaxIndex, i);
@@ -129,50 +174,6 @@ and print them in either*
 		}
 
 ```
-***
-## Irvine Library
-* *We have used this library to print messages to the user, and also the ineger values that he enters then checking if this entered values are valid or not.*
-
-* ***<ins>Used Procedures:</ins>***
-    1. **WriteString :**  Writes a null-terminated string to standard output that EDX register points to it and move the cursor to the beginning of the next screen line. It has no return value.
-    2. **Crlf :** Writes a carriage return/linefeed sequence (0Dh,0Ah) to standard output.
-    3. **ReadInt :** ReadInt - Reads a 32-bit signed decimal integer from standard input, terminated by the Enter key.
-
-        Leading spaces are ignored, and an optional leading + or - sign is permitted.
-
-         ReadInt will display an error message, set the Overflow flag, and reset EAX to zero if the value entered cannot be represented as a 32-bit signed integer.
-
-         - Return args:
-         
-                     If OF=0, EAX = valid binary value, and SF=sign.
-                     If OF=1, EAX = 0 (invalid input)
-                     
-    4. **Writeint:** Writes a signed 32-bit decimal number that is stored in EAX register to standard output in decimal format with a leading sign and no leading zeros.
-* ***<ins>Library issue:</ins>***
-<br>
-         If the user have enterd nothing the input will be accepted and considers the input to be 0 and assign it to the EAX register as an input.
-         
-         
-***
-
-## Testing Sorting Program
-* ***Testing Sort***
-
-![o1](https://user-images.githubusercontent.com/47761503/148268481-39473cd7-f20e-4ce4-b25c-d9352417b174.PNG)
-
-![o2](https://user-images.githubusercontent.com/47761503/148268525-d818368d-865f-410b-b7ac-247867a48c38.PNG)
-
-![o3](https://user-images.githubusercontent.com/47761503/148270028-cc44f6b3-2ea0-4c4e-b41e-89088e28792f.PNG)
-
-* ***Checking Input Validation***
-
-![o4](https://user-images.githubusercontent.com/47761503/148270335-d8da02c1-8c5d-4cb7-979e-fece182c515a.PNG)
-
-![o5](https://user-images.githubusercontent.com/47761503/148270378-98ce29f8-85a7-4b2a-ae35-a02145218b4b.PNG)
-
-![o6](https://user-images.githubusercontent.com/47761503/148270423-69523d4d-0c73-420b-9da4-7d7dbd5c4647.PNG)
-
-
 ***
 ## Tools
 * Assembly Programming Language
