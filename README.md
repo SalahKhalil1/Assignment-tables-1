@@ -8,7 +8,7 @@ Moaaz Anwar-->
 # Table of Contents  
 * [About The Project](#About-The-Project)  
 * [Irvine Library](#Irvine-Library)
-* [1. Insertion Sort](1.-Insertion-Sort)
+* [1. Insertion Sort](#1.-Insertion-Sort)
 * [Sorting Algorithms](#Sorting-Algorithms)
 * [About The Project](#About-The-Project)
 * [About The Project](#About-The-Project)
