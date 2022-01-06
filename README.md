@@ -6,7 +6,7 @@ Moaaz Anwar-->
 
 # Sorting Array Elements
 # Table of Contents  
-[About The Project](#About The Project)  
+[About The Project](#About-The-Project)  
 [Emphasis](#emphasis)  
 ...snip...    
 <a name="headers"/>
